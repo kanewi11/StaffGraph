@@ -1,6 +1,6 @@
 from flask import Blueprint, jsonify, request
 from .models import Staff, Marker, Department
-from .auxiliary_functions import filled_or_empty
+from .additional_functions import filled_or_empty
 
 
 api = Blueprint('api', __name__)
