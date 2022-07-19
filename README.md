@@ -4,4 +4,6 @@ This project is ```analogous (Physical Access Control System, PACS)```, but in t
 
 And the administrator in the panel will show who arrived or left at what time.
 
+### In the process of [design](https://www.figma.com/file/Hy6z49CaTuwbpAdo7UJEvG/Staff-Graph---new-design?node-id=0%3A1)
+
 ## ```CURRENTLY IN DEVELOPMENT```
