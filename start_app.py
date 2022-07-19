@@ -1,4 +1,4 @@
-from lastout import db, create_app
+from StaffGrapf import db, create_app
 
 db.create_all(app=create_app())
 app = create_app()
